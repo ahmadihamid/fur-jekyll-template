@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Fur
+title: Warung Hamid
 url: "https://ahmadihamid.com/fur-jekyll-template" 
 baseurl: "/fur-jekyll-template" 
 google_analytics_key:
@@ -37,7 +37,7 @@ permalink: pretty
 defaults:
   -
     scope:
-      path: ""
+      path: "/fur-jekyll-template"
       type: "products"
     values:
       layout: "product"
