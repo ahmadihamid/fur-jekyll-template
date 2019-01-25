@@ -1,12 +1,12 @@
 - name: Products
-  link: /fur-jekyll-template
+  link: /
   new_window: false
   highlight: false
 - name: Our Story
-  link: /fur-jekyll-template/about/
+  link: /about/
   new_window: false
   highlight: false
 - name: Contact
-  link: /fur-jekyll-template/contact/
+  link: /contact/
   new_window: false
   highlight: false
